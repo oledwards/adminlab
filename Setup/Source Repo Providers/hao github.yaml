@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:yP7OJAmhQqmAUuLFltppFA
+url: https://github.com/hdiep1/adminlab
+urlType: REPO
+username: git
