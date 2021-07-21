@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:FAz8IbCmS_KT8EiiuC_79Q
+url: https://github.com/videmsky/adminlab.git
+urlType: REPO
+username: git
