@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:VNY_uVsYQum7Q9On5ehFBw
+url: https://github.com/miketnt/harness-admin-lab
+urlType: REPO
+username: git
